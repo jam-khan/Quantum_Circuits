@@ -2,7 +2,7 @@
 This repository contains the code for Quantum Leaf platform by Baidu for the research project in COMP3316 at University of Hong Kong.
 
 
-# How to reproduce the results from the Assignment 4 document?
+## How to reproduce the results?
 
 
 Every circuit in the Assignment 4 document has a number associated with it. E.g. First Circuit in the Assignment has (1), and hence, the name of the file of first circuit is Circuit_1.txt.
