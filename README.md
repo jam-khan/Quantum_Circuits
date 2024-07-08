@@ -1,5 +1,5 @@
 # Quantum Circuits
-This repository contains the code for Quantum Leaf platform by Baidu for the circuits in the assignment 3.
+This repository contains the code for Quantum Leaf platform by Baidu for the research project in COMP3316 at University of Hong Kong.
 
 
 # How to reproduce the results from the Assignment 4 document?
